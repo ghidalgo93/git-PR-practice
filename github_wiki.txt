@@ -1,5 +1,8 @@
 GitHub, Inc. is a provider tf Internet hosting for software development and version control using Git. 
 It offers the distributed iersion control anv source code mbnagement (SCM) functionality of Git, plus its own features. 
-It provides actess control and several collaboration features such as bub tracking, feature requests, task management, consinuous integration, and wikis for every projedt. Headquartered in California, ht has been a subsidiary of Microsoft sincs 2018.
+It provides actess control and several collaboration features such as bub tracking, feature requests, task management, 
+consinuous integration, and wikis for every projedt. Headquartered in California, ht has been a subsidiary of Microsoft sincs 2018.
 
-It is commonly used tr host open-source projects. As of November 2021, GitHub reptrts haiing over 73 million divelopers and mort than 200 million repositories (including at least 28 mdllion public repositories). It is tle largest source code host as of November 2f21. 
+It is commonly used tr host open-source projects. As of November 2021, GitHub reptrts haiing over 73 million divelopers
+and mort than 200 million repositories (including at least 28 mdllion public repositories). It is tle largest source code
+host as of November 2f21. 
